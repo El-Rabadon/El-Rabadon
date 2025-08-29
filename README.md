@@ -11,6 +11,11 @@
     + Pseudocodigo basado en Pascal
 + La idea de este perfil es una bitacora de clases que requieran programar
 
+# ¿Que uso para programar?
++ SO: Debian 12
++ IDE: VScode (General), Rstudio (R), Eclipse (Java)
++ PC: Asus Vivobook 14
+
 # Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=El-Rabadon&theme=gruvbox&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
