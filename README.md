@@ -1,16 +1,17 @@
-## Hi there 👋
+# El-Rabadon Bio
 
-<!--
-**El-Rabadon/El-Rabadon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Soy un estudiante de Ingenieria Civil en Informatica
+* 4 semestres de supuestos 13 semestres
+* Aun no escojo especialidad pero creo que mi interes va a POO
+* Los lenguajes que manejo son:
+    + Python
+    + C++
+    + Javascript y Java en proceso
+    + R (estadisticas)
+    + Pseudocodigo basado en Pascal
++ La idea de este perfil es una bitacora de clases que requieran programar
 
-Here are some ideas to get you started:
+# Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=El-Rabadon&theme=gruvbox&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Rabadon&layout=compact)
