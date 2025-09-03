@@ -19,4 +19,4 @@
 # Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=El-Rabadon&theme=gruvbox&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Rabadon&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xRabadon&layout=compact)
