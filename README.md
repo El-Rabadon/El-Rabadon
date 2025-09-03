@@ -1,5 +1,7 @@
 # El-Rabadon Bio
 
+![Logo](https://media1.tenor.com/m/lCfnlD4SppUAAAAC/agnes-tachyon-umamusume.gif)
+
 * Soy un estudiante de Ingenieria Civil en Informatica
 * 4 semestres de supuestos 13 semestres
 * Aun no escojo especialidad pero creo que mi interes va a POO
